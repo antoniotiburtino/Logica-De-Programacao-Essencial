@@ -1,18 +1,11 @@
-## Getting Started
+# LÓGICA DE PROGRAMAÇÃO COM JAVA 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+1. Exercicios feito para elevar a minha lógica de programação.
 
-The workspace contains two folders by default, where:
+2. A Linguagem é o JAVA.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+3. O link da Prof(a) Camila Cavalcante esta em About.
+Vale muito a pena você estudar os conteúdos dela, uma didática fascinante, explica de uma forma facil que irá ajudar muitos. Não tem como não aprender, fica a dica.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+*Aos poucos vou atualizando esse meu repositório.*
