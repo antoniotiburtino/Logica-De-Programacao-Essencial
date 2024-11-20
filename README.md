@@ -1,4 +1,4 @@
-# LÓGICA DE PROGRAMAÇÃO COM JAVA 
+# LÓGICA DE PROGRAMAÇÃO COM JAVA ☕♨️
 
 
 1. Exercicios feito para elevar a minha lógica de programação.
